@@ -12,7 +12,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/accounts/v1")
+@RequestMapping("/api/accounts/v1")
 @AllArgsConstructor
 public class CustomerController {
 
